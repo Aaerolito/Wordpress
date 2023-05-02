@@ -1,0 +1,119 @@
+/* Por favor não remover essa linha, uso exclusivo para manipulação do Portifolio. */
+.elementor-portfolio__filters [data-filter="772978"] .elementor-active ~ .elementor-filter-772978:nth-child(n+3){
+   display: none !important;
+}
+/* Por favor não remover essa linha, uso exclusivo para manipulação do Portifolio. */
+
+.elementor-portfolio-item__title {
+  text-align: start;
+  padding-left: 20px !important;
+}
+
+.elementor-portfolio__filters {
+    justify-content: start !important;
+    margin-left: -9px !important;
+}
+
+selector .elementor-portfolio-item__overlay {
+    opacity: 1;
+}
+
+#filtro-portifolio .elementor-portfolio__filter::after {
+    content: '/';
+    padding-left: 15px;
+}
+
+#filtro-portifolio .elementor-portfolio__filter:last-child::after{
+    content: '';
+}
+
+
+.elementor-portfolio .category-reports a  .elementor-portfolio-item__overlay:hover {
+   background-color: #7AF1DC;
+   background-color: rgba(122, 241, 220, 0.5);
+   transition: 0.5s;
+}
+
+
+.elementor-portfolio .category-sem-categoria a  .elementor-portfolio-item__overlay:hover {
+   background-color: #69dcef;
+   background-color: rgba(105, 220, 239, 0.5);
+   transition: 0.5s;
+}
+
+.elementor-portfolio .category-pessoas a  .elementor-portfolio-item__overlay:hover{
+   background-color: #69dcef;
+   background-color: rgba(105, 220, 239, 0.5);
+   transition: 0.5s;
+}
+
+.elementor-portfolio .category-projetos-in-company a  .elementor-portfolio-item__overlay:hover{
+   background-color: #6253ed;
+   background-color: rgba(98, 83, 237, 0.5);
+   transition: 0.5s;
+}
+
+.elementor-portfolio .category-metodologias-de-inovacao-pesquisa a  .elementor-portfolio-item__overlay:hover{
+   background-color: #C83FD5;
+   background-color: rgba(200, 63, 213, 0.5);
+   transition: 0.5s;
+}
+
+.elementor-portfolio .category-the-why-store a  .elementor-portfolio-item__overlay:hover{
+   background-color: #E08EBE;
+   background-color: rgba(224,142,190,0.5);
+   transition: 0.5s;
+}
+
+
+.elementor-portfolio .category-books a  .elementor-portfolio-item__overlay:hover{
+   background-color: #E08EBE;
+   background-color: rgba(224,142,190,0.5);
+   transition: 0.5s;
+}
+
+
+.elementor-portfolio .category-kids a  .elementor-portfolio-item__overlay:hover{
+   background-color: #E08EBE;
+   background-color: rgba(224,142,190,0.5);
+   transition: 0.5s;
+}
+
+.elementor-portfolio .category-outros a  .elementor-portfolio-item__overlay:hover{
+   background-color: #E08EBE;
+   background-color: rgba(224,142,190,0.5);
+   transition: 0.5s;
+}
+
+
+.elementor-portfolio .category-objetos-do-amanha a .elementor-portfolio-item__overlay:hover{
+   background-color: #7AF1DC;
+   background-color: rgba(122, 241, 220, 0.5);
+   transition: 0.5s;
+}
+
+.elementor-portfolio .category-incubadora a .elementor-portfolio-item__overlay:hover{
+   background-color: #7AF1DC;
+   background-color: rgba(122, 241, 220, 0.5);
+   transition: 0.5s;
+}
+
+.elementor-portfolio .category-laboratorio-de-tecnologias-emergentes a .elementor-portfolio-item__overlay:hover{
+   background-color: #7AF1DC;
+   background-color: rgba(122, 241, 220, 0.5);
+   transition: 0.5s;
+}
+
+.elementor-portfolio .category-palestras a .elementor-portfolio-item__overlay:hover{
+   background-color: #4491e9;
+   background-color: rgba(68, 145, 233, 0.5);
+   transition: 0.5s;
+}
+
+.elementor-36 .elementor-element.elementor-element-e5b4e6d .elementor-portfolio__filter {
+    line-height: 35px;
+}
+
+.elementor-posts-container .elementor-post {
+    transition-duration: 0ms !important;
+}

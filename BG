@@ -1,0 +1,39 @@
+<style>
+  .entry-title {
+    display: none !important;
+  }
+
+  html {
+    background: #000;
+  }
+  
+  header.elementor-777 {
+      background: black !important;
+      background-color: black !important;
+  }
+  
+
+  .elementor-kit-8 {
+    --e-global-color-secondary: black;
+  }
+
+  .elementor-36 {
+    background-repeat: no-repeat;
+    background-image: url(https://curso.aeroli.to/wp-content/uploads/2022/11/Copia-de-AEROLITO-COR.png);
+    background-position: top center;
+    background-size: contain;
+  }
+
+  .elementor-36
+    .elementor-element.elementor-element-209879f7:not(
+      .elementor-motion-effects-element-type-background
+    ) {
+    background-image: none !important;
+  }
+
+  .elementor-widget-container p a {
+    color: #8a8a8a !important;
+  }
+  
+  
+</style>
